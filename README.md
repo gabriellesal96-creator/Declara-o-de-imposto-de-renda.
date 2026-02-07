@@ -1,2 +1,2 @@
-# Declara-o-de-imposto-de-renda.
+# Declara-de-imposto-de-renda.
 declaração ipr
